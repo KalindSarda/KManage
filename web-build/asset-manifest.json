@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/static/js/app.de407f6d.chunk.js",
+    "app.js.map": "/static/js/app.de407f6d.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.44ddfa1e.js",
+    "runtime~app.js.map": "/static/js/runtime~app.44ddfa1e.js.map",
+    "static/js/2.7ade7217.chunk.js": "/static/js/2.7ade7217.chunk.js",
+    "static/js/2.7ade7217.chunk.js.map": "/static/js/2.7ade7217.chunk.js.map",
+    "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/./fonts/FontAwesome.ttf",
+    "fonts/Foundation.ttf": "/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/media/bell.png": "/static/media/bell.a7b9dc9d.png",
+    "static/media/date_icon.png": "/static/media/date_icon.1edd5017.png",
+    "static/media/heart.png": "/static/media/heart.2327736b.png",
+    "static/media/rocket.png": "/static/media/rocket.51671417.png",
+    "static/media/star.png": "/static/media/star.004c2bbb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.44ddfa1e.js",
+    "static/js/2.7ade7217.chunk.js",
+    "static/js/app.de407f6d.chunk.js"
+  ]
+}
